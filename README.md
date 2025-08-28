@@ -1,4 +1,7 @@
-# 🤖 Agentic AI Memory Management 
+# From LLMs to Operating Systems
+Inspired by the MemGPT paper and the DeepLearning.AI course, these notebooks explore how to overcome the memory limitations of LLMs by treating them like the CPU of a traditional operating system.
+
+## 🤖 Agentic AI Memory Management 
 
 This repository contains a series of Google Colab notebooks converted to use the **Google Gemini API**. These notebooks demonstrate advanced agentic concepts like memory management, custom tool use, and Retrieval-Augmented Generation (RAG) by simulating complex functionalities with standard Python and the Gemini API.
 
